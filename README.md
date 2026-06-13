@@ -12,6 +12,7 @@ To understand how attacks unfold, how defenses respond, and what each side leave
 
 ```
 security-lab/
+├── README.md
 ├── docs/
 └── scenarios/
 ```

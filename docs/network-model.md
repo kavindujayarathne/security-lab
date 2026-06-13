@@ -26,7 +26,7 @@ Each VM is configured with one or more network adapters depending on its role an
 part of. Adapters can be added, removed, enabled, or disabled per VM at any time. A single VM can
 take part in different topologies for different scenarios just by tweaking its adapters.
 
-> [!NOTE]  
+> [!NOTE]
 > **Network type vs network adapter -** A network type (NAT, Internal, Host-only, Bridged) is the
 > _kind of connection_. A network adapter is the VM's _virtual NIC_. Each VM can have several
 > adapters, and each adapter is configured to use one network type. That's how a single VM can sit

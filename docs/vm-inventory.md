@@ -1,6 +1,6 @@
 # VM Inventory
 
-This document lists each VM in the lab grouped by category. The categories themselves are described in [Lab Foundation](lab-foundation.md). Both the categories and the VMs that belong to them may change as the lab grows.
+This document lists each VM in the lab grouped by category. The categories themselves are described in [Lab Foundation](lab-foundation.md#design-approach). Both the categories and the VMs that belong to them may change as the lab grows.
 
 ## Red
 
